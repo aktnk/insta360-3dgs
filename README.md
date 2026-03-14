@@ -1,6 +1,6 @@
   # insta360-3dgs
 
-  [English](#english) | [日本語](#japanese)
+  [English](#english) | [日本語](#日本語)
 
   ---
 
